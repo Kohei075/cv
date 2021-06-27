@@ -30,15 +30,21 @@ Java | JavaScript | HTML,CSS
 
 ### フレームワーク等
 
-Spring Framework(Spring MVC, Spring Boot) | Struts2 |
+Spring Framework(Spring MVC, Spring Boot) | Struts2 | jQuery
 
 ### RDB/NoSQL
 
-Oracle(PL/SQL) | SQL Server | MySQL
+Oracle(PL/SQL) | MySQL | SQL Server
+
+### クラウド
+
+#### AWS
+
+S3 | Lambda | EC2 | RDS(MySQL) | ElastiCache(Redis)
 
 ### SaaS/PaaS
 
-GitHub | GitLab
+GitHub | GitLab | Git Bucket
 
 ## 主な経験業務、バリューが発揮できる業務
 
