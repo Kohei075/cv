@@ -14,9 +14,9 @@
 |趣味|旅行、カメラ、ギター演奏、映画観賞|
 
 ## 概要
-- エンジニアとしての経歴は現在4年目となります。
-- 現在、大阪にてフリーランスエンジニアとして設計、開発業務を主に行っています。(これまでの参画案件については下記を参照)
-- フロントエンド、バックエンドどちらについても開発の経験があり、一人称での設計〜開発、テストまで可能です。
+- エンジニアとして4年目、フリーランスエンジニアとして2期目になります。
+- 大阪にてフリーランスエンジニアとして設計、開発業務を主に行っています。(これまでの参画案件については下記を参照)
+- フロント、バックエンドどちらについても携わる機会が多く、一人称での設計〜開発、テストが可能です。
 
 ## スキル
 
@@ -26,15 +26,15 @@ Windows | Linux
 
 ### 言語
 
-Java | JavaScript | HTML,CSS
+Java | PHP | JavaScript | HTML,CSS
 
 ### フレームワーク等
 
-Spring Framework(Spring MVC, Spring Boot) | Struts2 | jQuery
+Spring Framework(Spring MVC, Spring Boot) | Struts2 | Laravel | Vue.js | jQuery
 
 ### RDB/NoSQL
 
-Oracle(PL/SQL) | MySQL | SQL Server
+MySQL | PostgreSQL | Oracle | SQL Server | Redis |
 
 ### クラウド
 
