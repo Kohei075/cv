@@ -21,17 +21,13 @@
 
 ## スキル
 
-### OS
-
-Windows 10 / 11
-
 ### 言語
 
 Java | PHP | JavaScript | HTML | CSS | PL/SQL
 
 ### フレームワーク等
 
-Spring Boot | Laravel | Vue.js | jQuery | MyBatis | DBFlute | Teeda | Struts2 | Intra-mart
+Spring Boot | Struts2 | Laravel | Vue.js | jQuery | Intra-mart
 
 ### RDB
 
@@ -51,12 +47,12 @@ Git | Docker | Jenkins | JUnit
 
 * 新規システム開発・機能追加開発におけるフロント・バックエンドの実装
 * API・バッチ処理の設計および実装
-* 基本設計書・詳細設計書などのドキュメント作成
 * テーブル設計・DDL作成・SQLパフォーマンス改善（インデックス最適化など）
 * 単体テスト・結合テストの実施、JUnitを用いた自動テストコードの作成
 * Gitを用いたチーム開発・コードレビュー
 * スクラム/ウォーターフォール双方の開発方式での業務推進
 * 顧客との要件整理・仕様調整
+* 基本設計書・詳細設計書などのドキュメント作成
 
 ## 業務経歴
 
